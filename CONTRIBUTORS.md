@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Naveen Pratap(https://github.com/naveen-271102)
+ - Place: Varanasi, India
+ - Bio: Student, IIIT Sonepat
+ - GitHub: [naveen](https://github.com/naveen-271102)
